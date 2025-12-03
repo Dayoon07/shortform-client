@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/shortform-client/static/css/main.61f860f2.css",
-    "main.js": "/shortform-client/static/js/main.a29ee1d1.js",
+    "main.js": "/shortform-client/static/js/main.22070a25.js",
     "static/js/453.59eb6f13.chunk.js": "/shortform-client/static/js/453.59eb6f13.chunk.js",
     "index.html": "/shortform-client/index.html",
     "main.61f860f2.css.map": "/shortform-client/static/css/main.61f860f2.css.map",
-    "main.a29ee1d1.js.map": "/shortform-client/static/js/main.a29ee1d1.js.map",
+    "main.22070a25.js.map": "/shortform-client/static/js/main.22070a25.js.map",
     "453.59eb6f13.chunk.js.map": "/shortform-client/static/js/453.59eb6f13.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.61f860f2.css",
-    "static/js/main.a29ee1d1.js"
+    "static/js/main.22070a25.js"
   ]
 }
